@@ -1,0 +1,144 @@
+{
+ "snapshot": "2026-11-20_1839",
+ "edit_dates": {
+  "gna_sub": "2026-10-29",
+  "df_sub": "2026-10-29",
+  "gna_circ": "2026-10-29",
+  "df_circ": "2026-10-29",
+  "pending": "2026-10-29",
+  "known": "2026-11-06",
+  "feeders": "2026-11-06"
+ },
+ "feeders_scored": 2687,
+ "tiers": {
+  "PERSISTENT": 481,
+  "OPEN": 1322,
+  "TIGHT": 620,
+  "CONSTRAINED_NOW": 232,
+  "EMERGING": 32
+ },
+ "changes": 0,
+ "top_constrained_with_fleet_demand": [
+  {
+   "feeder": "TEMPLETON 2108",
+   "substation": "TEMPLETON",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -9.23,
+   "ev_fleet_requests": 5,
+   "division": "Los Padres"
+  },
+  {
+   "feeder": "VIERRA 1706",
+   "substation": "VIERRA",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -2.13,
+   "ev_fleet_requests": 4,
+   "division": "Stockton"
+  },
+  {
+   "feeder": "SANTA MARIA 1106",
+   "substation": "SANTA MARIA",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -0.38,
+   "ev_fleet_requests": 4,
+   "division": "Los Padres"
+  },
+  {
+   "feeder": "PANOCHE 1103",
+   "substation": "PANOCHE",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -30.52,
+   "ev_fleet_requests": 3,
+   "division": "Yosemite"
+  },
+  {
+   "feeder": "TEMPLETON 2111",
+   "substation": "TEMPLETON",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -5.21,
+   "ev_fleet_requests": 3,
+   "division": "Los Padres"
+  },
+  {
+   "feeder": "TEMPLETON 2112",
+   "substation": "TEMPLETON",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -5.21,
+   "ev_fleet_requests": 3,
+   "division": "Los Padres"
+  },
+  {
+   "feeder": "FRENCH CAMP 1101",
+   "substation": "FRENCH CAMP",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -4.45,
+   "ev_fleet_requests": 3,
+   "division": "Stockton"
+  },
+  {
+   "feeder": "MORRO BAY 1101",
+   "substation": "MORRO BAY",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -2.84,
+   "ev_fleet_requests": 3,
+   "division": "Los Padres"
+  },
+  {
+   "feeder": "GREEN VALLEY 2102",
+   "substation": "GREEN VALLEY",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -2.62,
+   "ev_fleet_requests": 3,
+   "division": "Central Coast"
+  },
+  {
+   "feeder": "RICHMOND R 1129",
+   "substation": "RICHMOND R",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -1.98,
+   "ev_fleet_requests": 3,
+   "division": "East Bay"
+  },
+  {
+   "feeder": "WEBER 1110",
+   "substation": "WEBER",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -1.38,
+   "ev_fleet_requests": 3,
+   "division": "Stockton"
+  },
+  {
+   "feeder": "SAN LUIS OBISPO 1106",
+   "substation": "SAN LUIS OBISPO  (FUTURE)",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -0.38,
+   "ev_fleet_requests": 3,
+   "division": "Los Padres"
+  },
+  {
+   "feeder": "MAGUNDEN 2108",
+   "substation": "MAGUNDEN",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": -0.16,
+   "ev_fleet_requests": 3,
+   "division": "Kern"
+  },
+  {
+   "feeder": "SANTA NELLA 1104",
+   "substation": "SANTA NELLA",
+   "tier": "PERSISTENT",
+   "eff_headroom_2027": -0.09,
+   "ev_fleet_requests": 3,
+   "division": "Yosemite"
+  },
+  {
+   "feeder": "GOOSE LAKE 2104",
+   "substation": "GOOSE LAKE",
+   "tier": "CONSTRAINED_NOW",
+   "eff_headroom_2027": 3.33,
+   "ev_fleet_requests": 3,
+   "division": "Kern"
+  }
+ ],
+ "change_list": []
+}
