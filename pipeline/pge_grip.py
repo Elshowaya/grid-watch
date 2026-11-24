@@ -5,7 +5,7 @@ Usage: python3 watch.py [--force]
 - Checks each layer's lastEditDate. If nothing changed since the last snapshot, exits (cheap).
 - Otherwise pulls all layers, saves a dated snapshot, classifies every feeder, and diffs vs the previous snapshot.
 
-Definition (Hark's working definition, from GRIP forecast fields):
+Definition (working definition, from GRIP forecast fields):
   headroom_mw(year) = feeder rating - forecast peak loading. Negative = deficiency.
   A feeder's effective headroom is the lower of its own headroom and its bank's headroom.
   Tiers:

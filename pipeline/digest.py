@@ -1,4 +1,4 @@
-"""Writes reports/DIGEST.md: the one small file Hark reads (instead of raw data) to keep token use low."""
+"""Writes reports/DIGEST.md: a short summary of each snapshot, so readers don't need the raw data."""
 import os, json, csv, datetime
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 R = os.path.join(ROOT, 'reports')
