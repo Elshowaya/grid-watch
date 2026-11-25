@@ -1,4 +1,4 @@
-# Grid Watch digest (2026-11-24)
+# Grid Watch digest (2026-11-25)
 
 Snapshot 2026-11-20_1839; PG&E edit dates {'gna_sub': '2026-10-29', 'df_sub': '2026-10-29', 'gna_circ': '2026-10-29', 'df_circ': '2026-10-29', 'pending': '2026-10-29', 'known': '2026-11-06', 'feeders': '2026-11-06'}
 
